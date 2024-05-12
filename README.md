@@ -1,4 +1,4 @@
-# Project Planning Tool
+# Fact Planner
 
 The Project Planning Tool is a comprehensive solution for managing projects, consisting of APIs developed in Django Rest Framework.
 
@@ -16,7 +16,7 @@ python manage.py runserver
 
 ## Description
 
-The Project Planning Tool is a Django project named `projectmanagement`, comprising three distinct apps:
+The Project Planning Tool is a Django project named `Fact Planner`, comprising three distinct apps:
 
 1. **User**: Manages user-related functionalities.
 2. **Team**: Handles team-related operations.
